@@ -9,10 +9,10 @@
     "jobTitle": "Reporter",
     "workLocation": {
         "@type": "Place",
-        "name": "Parigi"
+        "name": "Parigi, Italy"
     },
     "sameAs": [
-        "http://autori.gedi.it/profilo/GID_d5c541e67faf4f2284d091d1a061bc30"
+        "https://twitter.com/anaisginori", "http://autori.gedi.it/profilo/GID_d5c541e67faf4f2284d091d1a061bc30"
     ],
     "contactPoint": {
         "@type": "ContactPoint",
