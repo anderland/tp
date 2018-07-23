@@ -11,8 +11,10 @@
     "verificationFactCheckingPolicy": "path-to-verificationFactCheckingPolicy",
     "unnamedSourcesPolicy": "path-to-unnamedSourcesPolicy",
     "actionableFeedbackPolicy": "path-to-actionableFeedbackPolicy",
+    "ownershipFundingInfo":"...",
     "foundingDate": "1965-11-09",
     "diversityStaffingReport": "path-to-diversityStaffingReport",
+    "contactPoint":[{..}, {..}] // include the two contact points here a) newsroom contact b) AF contact
     "logo": {
         "@type": "ImageObject",
         "url": "http://www.ilsole24ore.com",
