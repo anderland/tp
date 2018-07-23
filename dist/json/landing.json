@@ -27,6 +27,8 @@
         "actionableFeedbackPolicy": "path-to-actionableFeedbackPolicy",
         "foundingDate": "1965-11-09",
         "diversityStaffingReport": "path-to-diversityStaffingReport",
+        "ownershipFundingInfo":"...",
+        "contactPoint":"[{...},{...}],
         "logo": {
             "@type": "ImageObject",
             "url": "http://www.ilsole24ore.com",
