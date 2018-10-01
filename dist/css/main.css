@@ -6958,7 +6958,8 @@ a:hover{
   top:52px; }
 
 .content .card-content ul, .content .intro ul{
-  list-style-type:initial; }
+  list-style-type:initial;
+  margin-left:1.25rem; }
 
 .navbar-item img{
   height:1.75rem; }
@@ -7260,6 +7261,11 @@ div.column.is-8:first-child{
     display:none; }
   .hero.typeset .lead{
     max-width:460px;
+    margin:0 auto; }
+  .hero.typeset .h3{
+    font-weight:400; }
+  .copy{
+    max-width:460px;
     margin:0 auto; } }
 
 @media screen and (min-width: 768px), print{
@@ -7409,7 +7415,9 @@ div.column.is-8:first-child{
       padding-left:5px;
       padding-right:5px; }
     .footer-blue a:hover{
-      opacity:.7; } }
+      opacity:.7; }
+  .hero.typeset .h3{
+    font-weight:400; } }
 
 @font-face{
   font-family:'icomoon';

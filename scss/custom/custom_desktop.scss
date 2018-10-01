@@ -1,22 +1,18 @@
 // tablet and up
 
 @media screen and (min-width: 768px), print {
-
-
-   .typeset {
+    .typeset {
         p, ul, ol {
             font-family: unquote(map-get($text, font-family));
         }
 
-        h1, h2, h3, h4, h5, h6
-         {
+        h1, h2, h3, h4, h5, h6 {
             font-family: unquote(map-get($head, font-family));
             font-style: map-get($head, normal);
             font-weight: map-get($head, bold);
         }
 
-        .h1, .h2, .h3, .h4, .h5, .h6
-         {
+        .h1, .h2, .h3, .h4, .h5, .h6 {
             font-family: unquote(map-get($head, font-family));
             font-weight: map-get($head, bold);
         }
@@ -156,7 +152,6 @@
         }
     }
 
-
     .sole-logo, .gruppo-logo {
         height: 70px;
         overflow: hidden;
@@ -239,6 +234,11 @@
         a:hover {
             opacity: .7;
         }
-    }    
+    }
 
+    .hero.typeset {
+        .h3 {
+            font-weight: map-get($head, normal);
+        }
+    }
 }

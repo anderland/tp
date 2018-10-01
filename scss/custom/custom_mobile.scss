@@ -12,12 +12,10 @@
             font-weight: map-get($head_m, bold);
         }
 
-        .h1, .h2, .h3, .h4, .h5, .h6
-         {
+        .h1, .h2, .h3, .h4, .h5, .h6 {
             font-family: unquote(map-get($head_m, font-family));
             font-weight: map-get($head_m, bold);
         }
-
 
         p, ul, ol {
             @include typeset($fontsize: c, $font: $text_m, $lineheight: 26 / 16, $below: 1, $breakpoint: 0);
@@ -154,8 +152,6 @@
         }
     }
 
-
-
     .sole-logo, .gruppo-logo {
         text-align: center;
         height: 70px;
@@ -256,12 +252,19 @@
         display: none;
     }
 
-
-.hero.typeset {
+    .hero.typeset {
         .lead {
+            max-width: 460px;
+            margin: 0 auto;
+        }
+
+        .h3 {
+            font-weight: map-get($head_m, normal);
+        }
+    }
+
+    .copy {
         max-width: 460px;
         margin: 0 auto;
     }
-}
-
 }

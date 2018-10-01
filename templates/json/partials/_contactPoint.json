@@ -1,17 +1,14 @@
 "contactPoint": [
-
-// include the two contact points here a) newsroom contact b) AF contact
-
     {
         "@type": "ContactPoint",
         "contactType": "Newsroom Contact",
-        "email": "haveyoursay@bbc.co.uk",
-        "url": "http://www.bbc.co.uk/contact#news"
+        "email": "redazione@ilsole24ore.com",
+        "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
     },
     {
         "@type": "ContactPoint",
         "contactType": "Public Engagement",
-        "email": "haveyoursay@bbc.co.uk",
-        "url": "http://www.bbc.co.uk/news/have_your_say"
+        "email": "feedback@ilsole24ore.com",
+        "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
     }
 ]

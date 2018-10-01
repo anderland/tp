@@ -5567,13 +5567,13 @@ basket
 
 basket.require({
     // url: '//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'
-    url: '//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'
+    url: 'https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'
 }).then(function() {
     load_jquery();
     console.log("jq");
 }, function(error) {
     basket.require({
-        url: 'bower/jquery/dist/jquery.min.js'
+        url: 'dist/jquery.min.js'
     }).then(function() {
         console.log("jq from local");
         load_jquery();

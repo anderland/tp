@@ -17,39 +17,35 @@
 
         "@type": "NewsMediaOrganization",
         "name": "Il Sole 24 ORE",
-        "ethicsPolicy": "path-to-ethicsPolicy",
-        "masthead": "path-to-masthead",
-        "missionCoveragePrioritiesPolicy": "path-to-missionCoveragePrioritiesPolicy",
-        "diversityPolicy": "path-to-diversityPolicy",
-        "correctionsPolicy": "path-to-correctionsPolicy",
-        "verificationFactCheckingPolicy": "path-to-verificationFactCheckingPolicy",
-        "unnamedSourcesPolicy": "path-to-unnamedSourcesPolicy",
-        "actionableFeedbackPolicy": "path-to-actionableFeedbackPolicy",
+        "ethicsPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#ethicsPolicy",
+        "masthead": "https://www.ilsole24ore.com/linee-guida-editoriali#masthead",
+        "missionCoveragePrioritiesPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#missionCoveragePrioritiesPolicy",
+        "diversityPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#diversityPolicy",
+        "correctionsPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#correctionsPolicy",
+        "verificationFactCheckingPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#verificationFactCheckingPolicy",
+        "unnamedSourcesPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#unnamedSourcesPolicy",
+        "actionableFeedbackPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy",
         "foundingDate": "1965-11-09",
-        "diversityStaffingReport": "path-to-diversityStaffingReport",
-        "ownershipFundingInfo": "path-to-ownershipFundingInfo",
-        "contactPoint": [
-
-            // include the two contact points here a) newsroom contact b) AF contact
-
-            {
+        "diversityStaffingReport": "https://www.ilsole24ore.com/linee-guida-editoriali#diversityStaffingReport",
+        "ownershipFundingInfo": "https://www.ilsole24ore.com/linee-guida-editoriali#ownershipFundingInfo",
+        "contactPoint": [{
                 "@type": "ContactPoint",
                 "contactType": "Newsroom Contact",
-                "email": "haveyoursay@bbc.co.uk",
-                "url": "http://www.bbc.co.uk/contact#news"
+                "email": "redazione@ilsole24ore.com",
+                "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
             },
             {
                 "@type": "ContactPoint",
                 "contactType": "Public Engagement",
-                "email": "haveyoursay@bbc.co.uk",
-                "url": "http://www.bbc.co.uk/news/have_your_say"
+                "email": "feedback@ilsole24ore.com",
+                "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
             }
         ],
         "logo": {
             "@type": "ImageObject",
-            "url": "http://www.ilsole24ore.com",
-            "width": "800",
-            "height": "450"
+            "url": "https://i2.res.24o.it/img2015/Logo_Il_Sole_24_Ore.png",
+            "width": "359",
+            "height": "112"
         }
 
     }

@@ -19,7 +19,7 @@ function downloadJSAtOnload() {
             element.src = scripts[i];
             document.body.appendChild(element);
         }
-    })(['/dist/js/after.min.js']);
+    })(['dist/js/after.min.js']);
 }
 if (window.addEventListener) window.addEventListener("load", downloadJSAtOnload, false);
 else if (window.attachEvent) window.attachEvent("onload", downloadJSAtOnload);
