@@ -17,28 +17,28 @@
 
         "@type": "NewsMediaOrganization",
         "name": "Il Sole 24 ORE",
-        "ethicsPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#ethicsPolicy",
-        "masthead": "https://www.ilsole24ore.com/linee-guida-editoriali#masthead",
-        "missionCoveragePrioritiesPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#missionCoveragePrioritiesPolicy",
-        "diversityPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#diversityPolicy",
-        "correctionsPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#correctionsPolicy",
-        "verificationFactCheckingPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#verificationFactCheckingPolicy",
-        "unnamedSourcesPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#unnamedSourcesPolicy",
-        "actionableFeedbackPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy",
+        "ethicsPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali/#ethicsPolicy",
+        "masthead": "https://www.ilsole24ore.com/linee-guida-editoriali/#masthead",
+        "missionCoveragePrioritiesPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali/#missionCoveragePrioritiesPolicy",
+        "diversityPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali/#diversityPolicy",
+        "correctionsPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali/#correctionsPolicy",
+        "verificationFactCheckingPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali/#verificationFactCheckingPolicy",
+        "unnamedSourcesPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali/#unnamedSourcesPolicy",
+        "actionableFeedbackPolicy": "https://www.ilsole24ore.com/linee-guida-editoriali/#actionableFeedbackPolicy",
         "foundingDate": "1965-11-09",
-        "diversityStaffingReport": "https://www.ilsole24ore.com/linee-guida-editoriali#diversityStaffingReport",
-        "ownershipFundingInfo": "https://www.ilsole24ore.com/linee-guida-editoriali#ownershipFundingInfo",
+        "diversityStaffingReport": "https://www.ilsole24ore.com/linee-guida-editoriali/#diversityStaffingReport",
+        "ownershipFundingInfo": "https://www.ilsole24ore.com/linee-guida-editoriali/#ownershipFundingInfo",
         "contactPoint": [{
                 "@type": "ContactPoint",
                 "contactType": "Newsroom Contact",
                 "email": "redazione@ilsole24ore.com",
-                "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
+                "url": "https://www.ilsole24ore.com/linee-guida-editoriali/#actionableFeedbackPolicy"
             },
             {
                 "@type": "ContactPoint",
                 "contactType": "Public Engagement",
                 "email": "feedback@ilsole24ore.com",
-                "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
+                "url": "https://www.ilsole24ore.com/linee-guida-editoriali/#actionableFeedbackPolicy"
             }
         ],
         "logo": {

@@ -87,8 +87,8 @@
     ];
     var cut = [
         uncss({
-            // html: ['https://area24-en.ilsole24ore.com/trust/index.html', 'https://area24-en.ilsole24ore.com/trust/author.html', 'https://area24-en.ilsole24ore.com/trust/NewsArticle.html']
-            html: ['http://127.0.0.1:88/index.html', 'http://127.0.0.1:88/author.html', 'http://127.0.0.1:88/NewsArticle.html']
+            html: ['https://area24.ilsole24ore.com/trust/index.html']
+            // html: ['http://127.0.0.1:88/index.html', 'http://127.0.0.1:88/author.html', 'http://127.0.0.1:88/NewsArticle.html']
 
         })
     ];

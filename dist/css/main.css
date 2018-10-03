@@ -7417,7 +7417,9 @@ div.column.is-8:first-child{
     .footer-blue a:hover{
       opacity:.7; }
   .hero.typeset .h3{
-    font-weight:400; } }
+    font-weight:400; }
+  .intro .h2{
+    margin-top:2.5rem; } }
 
 @font-face{
   font-family:'icomoon';

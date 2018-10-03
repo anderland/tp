@@ -3,12 +3,12 @@
         "@type": "ContactPoint",
         "contactType": "Newsroom Contact",
         "email": "redazione@ilsole24ore.com",
-        "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
+        "url": "https://www.ilsole24ore.com/linee-guida-editoriali/#actionableFeedbackPolicy"
     },
     {
         "@type": "ContactPoint",
         "contactType": "Public Engagement",
         "email": "feedback@ilsole24ore.com",
-        "url": "https://www.ilsole24ore.com/linee-guida-editoriali#actionableFeedbackPolicy"
+        "url": "https://www.ilsole24ore.com/linee-guida-editoriali/#actionableFeedbackPolicy"
     }
 ]

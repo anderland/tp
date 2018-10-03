@@ -241,4 +241,10 @@
             font-weight: map-get($head, normal);
         }
     }
+
+    .intro {
+        .h2 {
+            margin-top: $unit * 2;
+        }
+    }
 }
