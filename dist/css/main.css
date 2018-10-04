@@ -6905,36 +6905,36 @@ label.panel-block{
 
 @font-face{
   font-family:'Sole_Serif_Headline';
-  src:url("/fonts/sole-serif/sole-serif-headline-bold.eot");
-  src:url("/fonts/sole-serif/sole-serif-headline-bold.eot?#iefix") format("embedded-opentype"), url("/fonts/sole-serif/sole-serif-headline-bold.woff2") format("woff2"), url("/fonts/sole-serif/sole-serif-headline-bold.woff") format("woff"), url("/fonts/sole-serif/sole-serif-headline-bold.ttf") format("truetype");
+  src:url("fonts/sole-serif/sole-serif-headline-bold.eot");
+  src:url("fonts/sole-serif/sole-serif-headline-bold.eot?#iefix") format("embedded-opentype"), url("fonts/sole-serif/sole-serif-headline-bold.woff2") format("woff2"), url("fonts/sole-serif/sole-serif-headline-bold.woff") format("woff"), url("fonts/sole-serif/sole-serif-headline-bold.ttf") format("truetype");
   font-weight:700;
   font-style:normal; }
 
 @font-face{
   font-family:'Sole_Serif_Headline';
-  src:url("/fonts/sole-serif/sole-serif-headline-regular.eot");
-  src:url("/fonts/sole-serif/sole-serif-headline-regular.eot?#iefix") format("embedded-opentype"), url("/fonts/sole-serif/sole-serif-headline-regular.woff2") format("woff2"), url("/fonts/sole-serif/sole-serif-headline-regular.woff") format("woff"), url("/fonts/sole-serif/sole-serif-headline-regular.ttf") format("truetype");
+  src:url("fonts/sole-serif/sole-serif-headline-regular.eot");
+  src:url("fonts/sole-serif/sole-serif-headline-regular.eot?#iefix") format("embedded-opentype"), url("fonts/sole-serif/sole-serif-headline-regular.woff2") format("woff2"), url("fonts/sole-serif/sole-serif-headline-regular.woff") format("woff"), url("fonts/sole-serif/sole-serif-headline-regular.ttf") format("truetype");
   font-weight:400;
   font-style:normal; }
 
 @font-face{
   font-family:'Sole_Serif_Text';
-  src:url("/fonts/sole-serif/sole-serif-text-bold.eot");
-  src:url("/fonts/sole-serif/sole-serif-text-bold.eot?#iefix") format("embedded-opentype"), url("/fonts/sole-serif/sole-serif-text-bold.woff2") format("woff2"), url("/fonts/sole-serif/sole-serif-text-bold.woff") format("woff"), url("/fonts/sole-serif/sole-serif-text-bold.ttf") format("truetype");
+  src:url("fonts/sole-serif/sole-serif-text-bold.eot");
+  src:url("fonts/sole-serif/sole-serif-text-bold.eot?#iefix") format("embedded-opentype"), url("fonts/sole-serif/sole-serif-text-bold.woff2") format("woff2"), url("fonts/sole-serif/sole-serif-text-bold.woff") format("woff"), url("fonts/sole-serif/sole-serif-text-bold.ttf") format("truetype");
   font-weight:700;
   font-style:normal; }
 
 @font-face{
   font-family:'Sole_Serif_Text';
-  src:url("/fonts/sole-serif/sole-serif-text-regular.eot");
-  src:url("/fonts/sole-serif/sole-serif-text-regular.eot?#iefix") format("embedded-opentype"), url("/fonts/sole-serif/sole-serif-text-regular.woff2") format("woff2"), url("/fonts/sole-serif/sole-serif-text-regular.woff") format("woff"), url("/fonts/sole-serif/sole-serif-text-regular.ttf") format("truetype");
+  src:url("fonts/sole-serif/sole-serif-text-regular.eot");
+  src:url("fonts/sole-serif/sole-serif-text-regular.eot?#iefix") format("embedded-opentype"), url("fonts/sole-serif/sole-serif-text-regular.woff2") format("woff2"), url("fonts/sole-serif/sole-serif-text-regular.woff") format("woff"), url("fonts/sole-serif/sole-serif-text-regular.ttf") format("truetype");
   font-weight:400;
   font-style:normal; }
 
 @font-face{
   font-family:'Sole_Serif_Text';
-  src:url("/fonts/sole-serif/sole-serif-text-regular-italic.eot");
-  src:url("/fonts/sole-serif/sole-serif-text-regular-italic.eot?#iefix") format("embedded-opentype"), url("/fonts/sole-serif/sole-serif-text-regular-italic.woff2") format("woff2"), url("/fonts/sole-serif/sole-serif-text-regular-italic.woff") format("woff"), url("/fonts/sole-serif/sole-serif-text-regular-italic.ttf") format("truetype");
+  src:url("fonts/sole-serif/sole-serif-text-regular-italic.eot");
+  src:url("fonts/sole-serif/sole-serif-text-regular-italic.eot?#iefix") format("embedded-opentype"), url("fonts/sole-serif/sole-serif-text-regular-italic.woff2") format("woff2"), url("fonts/sole-serif/sole-serif-text-regular-italic.woff") format("woff"), url("fonts/sole-serif/sole-serif-text-regular-italic.ttf") format("truetype");
   font-weight:400;
   font-style:italic; }
 
@@ -7152,7 +7152,7 @@ div.column.is-8:first-child{
     margin-bottom:1.39374rem;
     padding-top:0.60626rem; }
     .typeset ul li, .typeset ol li{
-      margin-left:1rem; }
+      margin-left:0; }
   .typeset dl{
     line-height:2rem;
     margin-bottom:1.39374rem;
